@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
   npm start
 
 
-**  🌐 Live Demo**
+**🌐 Live Demo**
 Check out the live demo of my portfolio [here](https://main.d1dmnqxuutbswc.amplifyapp.com/).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://main.d1dmnqxuutbswc.amplifyapp.com/)
